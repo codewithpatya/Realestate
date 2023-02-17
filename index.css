@@ -1,0 +1,120 @@
+.menus a{
+    margin-left: 30px;
+    text-decoration: none;
+    color: white;
+}
+.navbar1 img{
+    height: 80px;
+    width: 100px;
+    
+}
+.navbar1{
+    position: relative;
+}
+.home1{
+    background-image: url(./architecture-5339245_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    
+}
+.home .container .row{
+    margin-top: 100px;
+}
+.home .card{
+    height: 370px;
+    border-radius: 20px;
+    
+}
+.home .card h2{
+    padding-top: 5px;
+    padding-right: 80px;
+    margin-top: 20px;
+    color: chocolate;
+}
+.home .para{
+    margin-top: 20px;
+    padding-right: 200px;
+    
+}
+.info a{
+    text-decoration: none;
+    color: cadetblue;
+}
+.info2 button{
+    height: 50px;
+    width: 200px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(232, 136, 9);
+    border: none;
+}
+.second .container .column1{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.info1 p{
+    font-size: 15px;
+    padding-right: 160px;
+    margin-top: 20px;
+}
+.head1 h4{
+    font-size: 40px;
+    color: chocolate;
+}
+.but1 button{
+    border: none;
+    height: 50px;
+    width: 200px;
+    border-radius: 7px;
+    color: white;
+    background-color: rgb(251, 145, 6);
+    
+}
+.but1{
+    margin-top: 100px;
+}
+.column2{
+    margin-top: 100px;
+}
+.row2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.second .card{
+    border: none;
+}
+.second{
+    margin-bottom: 60px;
+}
+.column2 .card .card-title{
+    font-weight: bold;
+    color:chocolate;
+}
+.about .card{
+    height: 150px;
+    width: 200px;
+    color: chocolate;
+    border: none;
+}
+.about .row{
+    margin-top: 230px;
+    
+
+}
+.aboutus{
+    background-image: url(https://cdn.pixabay.com/photo/2017/09/28/08/35/building-plan-2794694_960_720.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.col1{
+    margin-left: 20px;
+}
+.card-body a{
+    text-decoration: none;
+}
+.blog .card{
+    border: none;
+    box-shadow: 2px 2px rgb(239, 218, 218);
+}
